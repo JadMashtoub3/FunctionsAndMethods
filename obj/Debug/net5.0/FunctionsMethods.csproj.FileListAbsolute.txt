@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.exe
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.deps.json
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.runtimeconfig.json
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.dll
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\ref\FunctionsMethods.dll
+C:\Users\ADMIN\Desktop\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.pdb
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.dll
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\ref\FunctionsMethods.dll
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.pdb
+C:\Users\ADMIN\Desktop\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.genruntimeconfig.cache
